@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/infotecs-testcase-2/static/css/main.0fbac975.css",
+    "main.js": "/infotecs-testcase-2/static/js/main.bc0674ba.js",
+    "static/media/icon-filter.svg": "/infotecs-testcase-2/static/media/icon-filter.91d86f8b3db1a39ac8e3abf2a2a1476d.svg",
+    "static/media/icon-submit.svg": "/infotecs-testcase-2/static/media/icon-submit.4f1a449699f2e0905f2f3987e935c293.svg",
+    "static/media/icon-edit.svg": "/infotecs-testcase-2/static/media/icon-edit.1fe0ee847f6804a092d1a9139ebe8878.svg",
+    "static/media/icon-sort.svg": "/infotecs-testcase-2/static/media/icon-sort.0403e511d1b579eda8ef3c41af6d8d50.svg",
+    "static/media/icon-delete.svg": "/infotecs-testcase-2/static/media/icon-delete.d4df2c8b0c583b38d7ab53dc064fce92.svg",
+    "static/media/icon-date.svg": "/infotecs-testcase-2/static/media/icon-date.accae2ca9824c456ff52031553824c3d.svg",
+    "index.html": "/infotecs-testcase-2/index.html",
+    "static/media/icon-done.svg": "/infotecs-testcase-2/static/media/icon-done.951452e7ef6f7bfb37ebc2c09d96ba75.svg",
+    "static/media/icon-plus.svg": "/infotecs-testcase-2/static/media/icon-plus.ab6eb3024d60f2fb046892020f7e46fd.svg",
+    "main.0fbac975.css.map": "/infotecs-testcase-2/static/css/main.0fbac975.css.map",
+    "main.bc0674ba.js.map": "/infotecs-testcase-2/static/js/main.bc0674ba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0fbac975.css",
+    "static/js/main.bc0674ba.js"
+  ]
+}
