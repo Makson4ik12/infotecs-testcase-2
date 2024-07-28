@@ -10,6 +10,7 @@ Test website for Infotecs
 
 ## Project Structure
 
+```bash
 src
 ├── App.jsx -> main component of app (with app context)
 ├── App.module.css
@@ -34,3 +35,4 @@ src
 ├── index.js
 └── utils
     └── local-storage.jsx -> contains functions to work with local storage (create task, get tasks, etc.)
+```
